@@ -38,7 +38,7 @@ public static void main (String[] args) throws InterruptedException
 	  // WEBDRIVER IS INTERFACE AND CHROME DRIVER AND FIREFOX DRIVER IS CLASS.
 	 
 //*************************************************************************************************************	  
-	
+	//changes made by Nabil
 	 	 String url ="http://www.xpr2t.com/Webobjects.html";
 	 
 //Maximize the browser
